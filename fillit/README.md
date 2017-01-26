@@ -2,11 +2,11 @@
 
 The second project when I was in University 42
 
-Group project with Aaron_Jude@42
+Group project with [YDang](https://github.com/yixuandang)
 
 #### There are some much faster version of it, you can check it online.
 
-After finishing [libft@42](https://github.com/yixuandang/libft).We can use the function we rewritten in libft in this project(fillit).
+After finishing [libft@42](https://github.com/AKJude/libft).We can use the function we rewritten in libft in this project(fillit).
 
 The purpose of this project is to make the smallest possible "square"(which can contain holes) with a given list of tetriminos, but the disposition must be as such that it returns the first possible solution when placing them recursively from top left.
 
